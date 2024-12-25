@@ -9,7 +9,7 @@ const Hero = () => {
                 <Image src={Photo} alt='a photo of Kien'/>
             </div>
             <h1 className="text-4xl font-bold text-white mb-4">
-                Hello World! I'm Kien!
+                Hello World, I'm Kien!
             </h1>
             <p className="text-lg text-gray-100">
                 I'm a junior developer - This is where I share my stories

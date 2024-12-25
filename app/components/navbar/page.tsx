@@ -20,12 +20,12 @@ const Navbar = () => {
       <nav>
         <ul className="flex space-x-6">
           <li>
-            <Link href="/posts"
+            <Link href="/pages/posts"
               className="text-white">Posts
             </Link>
           </li>
           <li>
-            <Link href="/contact"
+            <Link href="/pages/contact"
               className="text-white">Contact
             </Link>
           </li>
